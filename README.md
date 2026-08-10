@@ -46,7 +46,3 @@ supabase/
 └── functions/
     └── jobfit-ai/    # Edge function handling all AI tool requests
 ```
-
-## Deployment
-
-[Open [JOBFIT ATS]() and click **Share → Publish**.](https://jobfitats.netlify.app/)
